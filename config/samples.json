@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Roberto",
+        "lastname": "Gonzalez",
+        "country": "PY",
+        "area": "DEV"
+    },
+    {
+        "id": 2,
+        "name": "John",
+        "lastname": "Brown",
+        "country": "US",
+        "area": "RRHH"
+    },
+    {
+        "id": 3,
+        "name": "Maria",
+        "lastname": "Diaz",
+        "country": "CU",
+        "area": "RRHH"
+    },
+    {
+        "id": 4,
+        "name": "Paola",
+        "lastname": "Gill",
+        "country": "AR",
+        "area": "MKT"
+    },
+    {
+        "id": 5,
+        "name": "Valeria",
+        "lastname": "Alvarez",
+        "country": "AR",
+        "area": "MKT"
+    },
+    {
+        "id": 6,
+        "name": "Diego",
+        "lastname": "Lezcano",
+        "country": "PY",
+        "area": "DEV"
+    }
+]
