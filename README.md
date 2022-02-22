@@ -1,4 +1,4 @@
-# API TEST - MUSIC BANDS
+# API TEST - MUSIC
 
 Diseño REST API en nodejs con DB en MySQL
 
